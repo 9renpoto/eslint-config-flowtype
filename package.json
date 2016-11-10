@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-flowtype",
   "description": "flowtype with eslint",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "author": "9renpoto",
   "bugs": {
     "url": "https://github.com/9renpoto/eslint-config-flowtype/pulls"
