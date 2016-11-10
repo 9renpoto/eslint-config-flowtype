@@ -12,7 +12,9 @@
     "eslint-plugin-flowtype": "^2.25.0"
   },
   "devDependencies": {
-    "eslint": "^3.9.1"
+    "eslint": "^3.9.1",
+    "flow-bin": "^0.34.0",
+    "flowtype": "^2.0.0"
   },
   "homepage": "https://github.com/9renpoto/eslint-config-flowtype#readme",
   "keywords": [
@@ -26,6 +28,6 @@
     "url": "git+ssh://git@github.com/9renpoto/eslint-config-flowtype.git"
   },
   "scripts": {
-    "test": "eslint ."
+    "test": "flow && eslint ."
   }
 }
