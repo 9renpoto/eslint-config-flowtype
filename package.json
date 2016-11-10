@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-flowtype",
+  "name": "@9renpoto/eslint-config-flowtype",
   "description": "flowtype with eslint",
   "version": "0.0.0",
   "author": "9renpoto",
