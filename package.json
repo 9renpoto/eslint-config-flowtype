@@ -26,6 +26,9 @@
   ],
   "license": "MIT",
   "main": "index.js",
+  "peerDependencies": {
+    "eslint": "^3.9.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/9renpoto/eslint-config-flowtype.git"
