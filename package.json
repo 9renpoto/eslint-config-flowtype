@@ -17,7 +17,7 @@
     "flow-bin": "^0.39.0"
   },
   "engine": {
-    "node": "> 4"
+    "node": "> 5"
   },
   "homepage": "https://github.com/9renpoto/eslint-config-flowtype#readme",
   "keywords": [
