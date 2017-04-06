@@ -12,7 +12,7 @@
     "eslint-plugin-flowtype": "^2.25.0"
   },
   "devDependencies": {
-    "@9renpoto/eslint-config": "^1.5.1",
+    "@9renpoto/eslint-config": "^2.0.0",
     "eslint": "^3.9.1",
     "flow-bin": "^0.39.0"
   },
