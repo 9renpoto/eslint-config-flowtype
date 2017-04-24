@@ -14,7 +14,7 @@
   "devDependencies": {
     "@9renpoto/eslint-config": "^2.0.0",
     "eslint": "^3.19.0",
-    "flow-bin": "^0.43.0"
+    "flow-bin": "^0.44.2"
   },
   "engine": {
     "node": "> 5"
