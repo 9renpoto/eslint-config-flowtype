@@ -28,7 +28,7 @@
   "main": "index.js",
   "peerDependencies": {
     "eslint": "3.x",
-    "flow-bin": "^0.44.0"
+    "flow-bin": "^0.45.0"
   },
   "repository": {
     "type": "git",
