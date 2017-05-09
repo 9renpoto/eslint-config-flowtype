@@ -1,4 +1,9 @@
 /* @flow  */
-export default function (sample: string) {
+
+type Sample = {
+  data: string
+}
+
+export default function (sample: Sample) {
   console.log(sample)
 }
