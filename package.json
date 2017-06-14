@@ -26,7 +26,7 @@
   "license": "MIT",
   "main": "index.js",
   "peerDependencies": {
-    "eslint": "3.x",
+    "eslint": "^4.0.0",
     "flow-bin": "^0.47.0"
   },
   "repository": {
