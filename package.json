@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "eslint": "^4.1.0",
-    "flow-bin": "^0.50.0"
+    "flow-bin": "^0.51.0"
   },
   "engine": {
     "node": "> 5"
