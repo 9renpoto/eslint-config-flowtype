@@ -7,12 +7,12 @@
     "url": "https://github.com/9renpoto/eslint-config-flowtype/pulls"
   },
   "dependencies": {
-    "@9renpoto/eslint-config": "^2.2.0",
+    "@9renpoto/eslint-config": "^2.3.0",
     "babel-eslint": "^7.2.3",
     "eslint-plugin-flowtype": "^2.35.0"
   },
   "devDependencies": {
-    "eslint": "^4.3.0",
+    "eslint": "^4.4.1",
     "flow-bin": "^0.53.0"
   },
   "engine": {
