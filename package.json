@@ -1,7 +1,7 @@
 {
   "name": "@9renpoto/eslint-config-flowtype",
   "description": "flowtype with eslint",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "author": "github.com/9renpoto",
   "bugs": {
     "url": "https://github.com/9renpoto/eslint-config-flowtype/pulls"
@@ -9,11 +9,11 @@
   "dependencies": {
     "@9renpoto/eslint-config": "^2.3.0",
     "babel-eslint": "^8.0.0",
-    "eslint-plugin-flowtype": "^2.35.0"
+    "eslint-plugin-flowtype": "^2.35.1"
   },
   "devDependencies": {
-    "eslint": "^4.4.1",
-    "flow-bin": "^0.54.0"
+    "eslint": "^4.6.1",
+    "flow-bin": "^0.54.1"
   },
   "engine": {
     "node": "> 5"
@@ -27,13 +27,13 @@
   "main": "index.js",
   "peerDependencies": {
     "eslint": "4.x",
-    "flow-bin": "0.53.x"
+    "flow-bin": "0.54.x"
   },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/9renpoto/eslint-config-flowtype.git"
   },
   "scripts": {
-    "test": "flow && eslint . --cache"
+    "test": "flow && eslint . --cache --ext=js,jsx"
   }
 }
