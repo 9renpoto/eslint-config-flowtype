@@ -9,7 +9,7 @@
   "dependencies": {
     "@9renpoto/eslint-config": "^2.3.0",
     "babel-eslint": "^8.2.1",
-    "eslint-plugin-flowtype": "^2.41.0"
+    "eslint-plugin-flowtype": "^2.42.0"
   },
   "devDependencies": {
     "eslint": "^4.16.0",
